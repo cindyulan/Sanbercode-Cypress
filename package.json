@@ -1,0 +1,14 @@
+{
+  "name": "sanbercode-cypress",
+  "version": "1.0.0",
+  "description": "Tugas Day 18 Cypress  \r URL to Test: https://www.saucedemo.com/  \r Browser for Testing : Google Chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cindy",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
